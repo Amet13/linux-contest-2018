@@ -1,5 +1,3 @@
-# linux-contest-2018
-
 ## О чем это?
 
 Это ежегодный конкурс IT-планета, а именно задания и мой вариант решения по конкурсу ["Администрирование Linux"](http://world-it-planet.org/projects/competition_detail.php?ID=62208)
