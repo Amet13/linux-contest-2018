@@ -185,6 +185,8 @@ echo "Succesfully added users, check file ${ENDFILE}"
 exit 0
 ```
 
+Для генерации паролей можно использовать `pwgen`.
+
 В принципе тут все понятно, ничего сложного:
 * сначала проверяем юзера который запускает скрипт, это может делать только `root`
 * скачиваем файл с пользователями, сохраняем в файл
@@ -476,6 +478,7 @@ root@localhost's password:
 
 Пишем `Dockerfile`:
 ```
+# vim Dockerfile
 FROM centos:7
 MAINTAINER Amet Umerov
 
