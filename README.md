@@ -510,7 +510,7 @@ docker-pr 18765 root    4u  IPv6 121777      0t0  TCP *:telnet (LISTEN)
 # telnet localhost 23
 ```
 
-![](https://i.imgur.com/Ix7Ux5E.png)
+![](https://raw.githubusercontent.com/Amet13/linux-contest-2018/master/nyancat.png)
 
 ### 7. Chattr
 
