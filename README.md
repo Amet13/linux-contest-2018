@@ -2,26 +2,26 @@
 
 ## <a name='toc'></a>Содержание
 
-- [О чем это?](#intro)
-- [Задания прошлых годов](#oldtasks)
-- [Задание 2 этапа (заочное) в 2018 году](#newtasks)
-  1. [Motd](#motd)
-  2. [Скрипт управления пользователями](#userscript)
-  3. [Права пользователей](#perms)
-  4. [Systemd timer](#timer)
-  5. [LXC](#lxc)
-  6. [Установить и настроить docker](#docker)
-  7. [Chattr](#chattr)
-- [Мой вариант решения заданий](#my)
-  1. [Motd](#motd_my)
-  2. [Скрипт управления пользователями](#userscript_my)
-  3. [Права пользователей](#perms_my)
-  4. [Systemd timer](#timer_my)
-  5. [LXC](#lxc_my)
-  6. [Установить и настроить docker](#docker_my)
-  7. [Chattr](#chattr_my)
-  8. [Контрольная проверка](#check)
-- [Дополнения](#extra)
+* [О чем это?](#intro)
+* [Задания прошлых годов](#oldtasks)
+* [Задание 2 этапа (заочное) в 2018 году](#newtasks)
+  * [1. Motd](#motd)
+  * [2. Скрипт управления пользователями](#userscript)
+  * [3. Права пользователей](#perms)
+  * [4. Systemd timer](#timer)
+  * [5. LXC](#lxc)
+  * [6. Установить и настроить docker](#docker)
+  * [7. Chattr](#chattr)
+* [Мой вариант решения заданий](#my)
+  * [1. Motd](#motd_my)
+  * [2. Скрипт управления пользователями](#userscript_my)
+  * [3. Права пользователей](#perms_my)
+  * [4. Systemd timer](#timer_my)
+  * [5. LXC](#lxc_my)
+  * [6. Установить и настроить docker](#docker_my)
+  * [7. Chattr](#chattr_my)
+  * [Контрольная проверка](#check)
+* [Дополнения](#extra)
 
 ## [[⬆]](#toc) <a name='intro'></a>О чем это?
 
@@ -552,7 +552,7 @@ docker-pr 18765 root    4u  IPv6 121777      0t0  TCP *:telnet (LISTEN)
 # mv ohmyfile /var/
 ```
 
-### <a name='check'></a>8. Контрольная проверка
+### <a name='check'></a>Контрольная проверка
 
 Собственно говоря, вот и все.
 
